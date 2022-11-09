@@ -1,12 +1,5 @@
 # Face-Recogntion-PyQt
-
-Watch the full tutorial here: http://bit.ly/facepyqt
-
-## Learn more AI and OpenCV GUI Design?
-
-Enroll in our YOLOv4 PyQt Course here : 
-https://www.augmentedstartups.com/yolov4-course
-
+An automated system to mark attendance in a school or work space by scanning the face.  
 
 ## To Install the Facial Recognition Libraries Dependencies
 
